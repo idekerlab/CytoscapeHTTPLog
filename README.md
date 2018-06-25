@@ -1,4 +1,4 @@
-# CytoscapeHTTPLogCounter
+# CytoscapeHTTPLog
 Convert HTTP logs into download and execution graphs
 
 There are two main() functions in this repo: 
