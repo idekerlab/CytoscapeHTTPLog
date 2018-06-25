@@ -1,7 +1,7 @@
 # CytoscapeHTTPLog
 Convert HTTP logs into download and execution graphs
 
-There are two main() functions in this repo: 
+There are two main() functions in this repository: 
 
 - CytoscapeDownloadCounter.java - processes HTTP logs and produces .TSV files counting Cytoscape version downloads
 - CytoscapeNewsCounter.java - processes HTTP logs and produces a .TSV file counting Cytoscape startups
